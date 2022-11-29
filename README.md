@@ -1,4 +1,4 @@
-## Oiii me chamo Viviane Mayra, uma dev em ansenção apaixonada por tecnologia!
+## Oiii me chamo Viviane Mayra, uma dev em ascenção apaixonada por tecnologia!
 <div align="center">
   <a href="https://github.com/VivianeMayra">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VivianeMayra&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
